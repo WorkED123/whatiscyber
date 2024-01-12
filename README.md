@@ -55,8 +55,6 @@
 
 </ul>
 
-
-
 <h2>NICE Framework KSAs</h2>
 <ul>
 <li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
@@ -162,6 +160,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <a href= "https://github.com/WorkED123/whatiscyber/blob/main/What%20is%20Cybersecurity.pptx"> What is Cybersecurity </a>
  <br>
 <h2> Hands-On Labs</h2>
+ < a href=""> Keylogging Challenge </a>
 <h2> Additonal Resources</h2>
 
 <p1>
