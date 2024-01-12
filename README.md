@@ -1,3 +1,4 @@
+
 <h1> Lesson 1.1: What is Cyber</h1>
 <h2> Summary</h2>
 
@@ -57,7 +58,7 @@
 <br>
 
 <h2>Define Cybersecurity</h2>
-<p1> Cybersecurity protects computer systems, networks, and data against electronic intrusions, damage, and illegal access. One can better defend against cyberattacks by implementing control measures while protecting sensitive data and system components from unwanted access. Network security, encryption, physical security, and end-user education are only a few of the subcategories of cybersecurity. <br>
+<p1>  Cybersecurity protects computer systems, networks, and data against electronic intrusions, damage, and illegal access. One can better defend against cyberattacks by implementing control measures while protecting sensitive data and system components from unwanted access. Network security, encryption, physical security, and end-user education are only a few of the subcategories of cybersecurity. <br>
 <br>
 The ongoing development of defenses in response to a constantly shifting threat scenario is fundamental to cybersecurity. Cyber attackers frequently use techniques like malware infections, phishing, and social engineering attacks to target software and hardware vulnerabilities. Setting up security precautions like firewalls, encryption, and antivirus and using strong passwords is part of implementing a solid cybersecurity strategy. It's crucial to keep up with the most recent security updates and patches software providers release to address known vulnerabilities.<br>
 <br>
@@ -68,27 +69,28 @@ Cybersecurity is a multidisciplinary field to prevent unwanted access to or atta
 <br>
 
 <h2>Understand Why Cybersecurity is Essential</h2>
-Understanding why cybersecurity is essential goes hand in hand with realizing the enormity of our dependence on digital platforms today. Our interactions, financial transactions, and critical infrastructures like power grids and healthcare are intricately tied to digital networks. This interdependence means that a breach in cybersecurity could lead to significant disruptions, with far-reaching impacts on individual, organizational, and societal levels. Hence, ensuring robust cybersecurity is akin to safeguarding the normal functioning of a wide array of essential services we often take for granted.<br>
+  Understanding why cybersecurity is essential goes hand in hand with realizing the enormity of our dependence on digital platforms today. Our interactions, financial transactions, and critical infrastructures like power grids and healthcare are intricately tied to digital networks. This interdependence means that a breach in cybersecurity could lead to significant disruptions, with far-reaching impacts on individual, organizational, and societal levels. Hence, ensuring robust cybersecurity is akin to safeguarding the normal functioning of a wide array of essential services we often take for granted.<br>
 <br>
 Moreover, the legal and financial repercussions of cybersecurity breaches can be severe. Organizations can face litigation, fines, and a loss of trust among their customers and stakeholders. On an individual level, people can experience identity theft, financial loss, and a breach of personal privacy. Cybersecurity safeguards tangible and intangible assets, protecting us from financial loss and preserving our privacy and personal information.
 
 <br>
 
 <h2>What Kinds of Information are at Risk</h2>
-<p1>In the digital age, many information types can be at risk of unauthorized access or manipulation. These encompass personal information such as social security numbers, bank account details, and healthcare records. Besides, intellectual property, proprietary business information, and government classified information stand risk-ridden. This can include anything from trade secrets to unpublished works and sensitive government documents.<br>
+<p1>  In the digital age, many information types can be at risk of unauthorized access or manipulation. These encompass personal information such as social security numbers, bank account details, and healthcare records. Besides, intellectual property, proprietary business information, and government classified information stand risk-ridden. This can include anything from trade secrets to unpublished works and sensitive government documents.<br>
 <br>
 The myriad of tactics attackers use compounds the risks of this information. Additionally, seemingly benign information, such as personal preferences, shopping habits, or social interactions, are at risk. Hackers can aggregate this data to create profiles of individuals, which can be used for identity theft or personalized phishing attacks, indicating that virtually no kind of information is entirely exempt from being at risk.</p1>
 
 
 <h2>Understanding the Cybersecurity Landscape</h2>
-<p1> The cybersecurity landscape is vast and continuously evolving, characterized by a perpetual race between cyber defenders and attackers. A deep understanding of this landscape involves knowledge of various threats, including malware, ransomware, and phishing. It's essential to understand the different attack vectors, such as email, web browsers, and portable drives, which cyber criminals use to initiate attacks.<br>
+<p1>  The cybersecurity landscape is vast and continuously evolving, characterized by a perpetual race between cyber defenders and attackers. A deep understanding of this landscape involves knowledge of various threats, including malware, ransomware, and phishing. It's essential to understand the different attack vectors, such as email, web browsers, and portable drives, which cyber criminals use to initiate attacks.<br>
 <br>
 Understanding the landscape also involves being aware of the defense mechanisms in place. This includes various tools and practices such as firewalls, encryption, and VPNs. Regular updates and patches to systems are also critical components to shield against known vulnerabilities. Additionally, various governmental and non-governmental organizations work tirelessly to standardize and enforce cybersecurity policies, continuously shaping the landscape to be more secure.
 </p1>
 <br>
 
 <h2>What are Different Cyber Careers</h2>
-As cybersecurity expands, so do the career opportunities it offers. A career in cybersecurity can involve roles such as a security analyst, who monitors and analyzes an organization's security posture continually. Security consultants who advise organizations on protecting themselves from cyber threats are also pivotal in the industry. Additionally, roles such as penetration testers, who are hired to find security vulnerabilities in a system before malicious hackers can find them, are essential.<br>
+As cybersecurity expands, so do the career opportunities it offers. A career in cybersecurity can involve roles such as a security analyst, who monitors and analyzes an organization's security posture continually. Security consultants who advise organizations on protecting themselves from cyber threats are also pivotal in the industry. Additionally, roles such as penetration testers, who are hired to find security vulnerabilities in a system before malicious hackers can find them, are essential.<br> 
+
 <br>
 Aside from these, we have cybersecurity engineers who work towards building secure systems and network administrators responsible for securing network systems. Careers in policy and planning, where professionals work on creating and implementing strategies to mitigate cyber risks, are also vital. Thus, the field offers a rich diversity of roles, each playing a critical part in fortifying the digital space.
 <br>
