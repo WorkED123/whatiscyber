@@ -160,9 +160,10 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <a href= "https://github.com/WorkED123/whatiscyber/blob/main/What%20is%20Cybersecurity.pptx"> What is Cybersecurity </a>
  <br>
 <h2> Hands-On Labs</h2>
- < a href=""> Keylogging Challenge </a>
-<h2> Additonal Resources</h2>
+ < a href="https://github.com/WorkED123/whatiscyber/blob/main/Keylogging%20Challenge.docx"> Keylogging Challenge </a>
+ <br>
 
+<h2> Additonal Resources</h2>
 <p1>
 Introduction to Cybersecurity: CBT Nuggets trainer Keith Barker explains why security is more important than ever and how to enter the burgeoning career field. <br>
 <br>
