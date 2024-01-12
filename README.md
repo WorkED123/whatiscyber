@@ -16,23 +16,41 @@
 <h2>Vocabulary and Acronyms</h2>
 
 <ul>
-<li>Cybersecurity</li>
-  <br>
-<li>Phishing</li>
-  <br>
-<li>VPN</li>
-  <br>
-<li>Data</li>
-  <br>
-<li>Encryption</li>
-  <br>
-<li>2FA</li>
-  <br>
-<li>Malware</li>
-  <br>
-<li>Firewall</li>
-  <br>
-<li>Social engineering</li>
+<li>
+
+  **Cybersecurity**</li>
+  
+<li>
+
+**Phishing**</li>
+  
+<li>
+  
+**VPN**</li>
+  
+<li>
+  
+**Data**</li>
+  
+<li>
+  
+  **Encryption**</li>
+  
+<li>
+  
+  **2FA**</li>
+  
+<li>
+  
+  **Malware**</li>
+  
+<li>
+  
+  **Firewall**</li>
+  
+<li>
+  
+  **Social engineering**</li>
 <br>
 
 </ul>
