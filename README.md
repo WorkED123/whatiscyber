@@ -38,6 +38,7 @@
 </ul>
 
 
+
 <h2>NICE Framework KSAs</h2>
 <ul>
 <li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
@@ -98,29 +99,46 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <h2>Summarization</h2>
 <p1>In today's lesson, we explored the comprehensive domain of cybersecurity, understanding its definition and the imperativeness of maintaining robust cybersecurity systems. We delved into the kinds of information at risk and ventured into the expansive and ever-evolving cybersecurity landscape. Lastly, we outlined the myriad career opportunities in the field, showcasing the multidimensional roles working collectively towards a secure digital space.</p1>
 <br>
-
+ 
 
 <h2>Vocabulary</h2>
 <ul>
-<li>Cybersecurity: Protecting systems, networks, and programs from digital attacks.</li>
-<br>
-<li>Phishing: A method cyber criminals use to obtain sensitive information by disguising as trustworthy entities during communications.</li>
-  <br>
-<li>VPN (Virtual Private Network): A technology that creates a secure connection over a less secure network, ensuring data protection and anonymity.</li>
-  <br>
-<li>Data: Information stored and transmitted in a digital form.</li>
-  <br>
-<li>Encryption: Converting data into a code to prevent unauthorized access.</li>
-  <br>
-<li>2FA (Two-Factor Authentication): A security process where a user provides two different authentication factors to verify their identity, enhancing security.</li>
-  <br>
-<li>Malware: Software designed to disrupt, damage, or gain unauthorized access to computer systems.</li>
-  <br>
-<li>Firewall: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.</li>
-  <br>
-<li>Social Engineering:Manipulative tactics employed to deceive users into giving away confidential information. </li></ul> 
-<br>
+<li> 
+        
+**Cybersecurity**: Protecting systems, networks, and programs from digital attacks.</li>
 
+<li>
+
+**Phishing**: A method cyber criminals use to obtain sensitive information by disguising as trustworthy entities during communications.</li>
+  
+<li>
+        
+**VPN (Virtual Private Network)**: A technology that creates a secure connection over a less secure network, ensuring data protection and anonymity.</li>
+ 
+<li>
+        
+**Data**: Information stored and transmitted in a digital form.</li>
+  
+<li>
+
+**Encryption**: Converting data into a code to prevent unauthorized access.</li>
+
+<li>
+        
+**2FA (Two-Factor Authentication)**: A security process where a user provides two different authentication factors to verify their identity, enhancing security.</li>
+  
+<li>
+        
+**Malware**: Software designed to disrupt, damage, or gain unauthorized access to computer systems.</li>
+
+<li>
+        
+**Firewall**: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.</li>
+
+<li>
+        
+**Social Engineering**:Manipulative tactics employed to deceive users into giving away confidential information. </li></ul> 
+<br>
 
 <h2> Presentation</h2>
 <h2> Hands-On Labs</h2>
@@ -132,3 +150,6 @@ Introduction to Cybersecurity: CBT Nuggets trainer Keith Barker explains why sec
 Cybersecurity Basics: Knowing some cybersecurity basics and putting them into practice will help you protect your business and reduce the risk of a cyber attack.
 <br>
 </p1>
+
+**cyber**
+
