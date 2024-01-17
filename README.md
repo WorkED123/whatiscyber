@@ -156,10 +156,10 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <br>
 
 <h2> Presentation</h2>
-<a href= "https://github.com/WorkED123/whatiscyber/blob/main/What%20is%20Cybersecurity.pptx"> What is Cybersecurity </a>
+<a href= "https://docs.google.com/presentation/d/1JorrYSc7D0od3_Z_9B4zqQZDERGKgPVV/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> What is Cybersecurity </a>
  <br>
 <h2> Hands-On Labs</h2>
- <a href="https://github.com/WorkED123/whatiscyber/blob/main/Keylogging%20Challenge.docx"> Keylogging Challenge </a>
+ <a href="https://docs.google.com/document/d/1I7R3D0KiOXAuQ-8hMCPReGGh28U3LBsf0VDV6CQrzDM/edit?usp=sharing"> Keylogging Challenge </a>
  <br>
 
 <h2> Additonal Resources</h2>
