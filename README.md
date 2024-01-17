@@ -51,7 +51,7 @@
 <li>
   
   **Social engineering**</li>
-<br>
+
 
 </ul>
 
@@ -68,7 +68,6 @@
 <li>K0036: Knowledge of human-computer interaction principles.</li>
 <br>
 <li>K0044: Knowledge of cybersecurity principles and organizational requirements.</li> </ul>
-<br>
 
 <h2>Lesson Prerequisites</h2>
 <p1> Previous experience with or understanding of cybersecurity is optional. We assume basic familiarity with computing and technology. </p1>
