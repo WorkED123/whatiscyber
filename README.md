@@ -171,12 +171,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <a href="https://create.kahoot.it/share/what-is-cyber/94dd65d5-7e8f-41a9-936a-d81de1d287df">Kahoot: What is Cyber </a>
 
 <h2> Additonal Resources</h2>
-<p1>
-<a href="https://www.youtube.com/watch?v=ULGILG-ZhO0">Introduction to Cybersecurity: </a> CBT Nuggets trainer Keith Barker explains why security is more important than ever and how to enter the burgeoning career field. <br>
-<br>
-<a href="https://www.ftc.gov/system/files/attachments/cybersecurity-small-business/cybersecuirty_sb_factsheets_all.pdf">Cybersecurity Basics: </a>Knowing some cybersecurity basics and putting them into practice will help you protect your business and reduce the risk of a cyber attack.
-<br>
-</p1>
+
 
 
 
