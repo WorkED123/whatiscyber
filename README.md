@@ -168,7 +168,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
  <br>
 
 <h2>Games</h2>
-<a href="https://create.kahoot.it/share/what-is-cyber/94dd65d5-7e8f-41a9-936a-d81de1d287df">Kahoot:What is Cyber </a>
+<a href="https://create.kahoot.it/share/what-is-cyber/94dd65d5-7e8f-41a9-936a-d81de1d287df">Kahoot: What is Cyber </a>
 
 <h2> Additonal Resources</h2>
 <p1>
