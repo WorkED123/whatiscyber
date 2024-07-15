@@ -164,7 +164,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <br>
 <a href="https://github.com/WorkED123/Research-and-Report-on-Different-Types-of-Malware/blob/main/README.md"> Malware Report </a>- Medium <br>
 <br>
- <a href="https://docs.google.com/document/d/1I7R3D0KiOXAuQ-8hMCPReGGh28U3LBsf0VDV6CQrzDM/edit?usp=sharing"> Keylogging Challenge </a>- Hard
+ <a href="https://github.com/WorkED123/Keylogger/tree/main"> Keylogging Challenge </a>- Hard
  <br>
 
 <h2>Games</h2>
