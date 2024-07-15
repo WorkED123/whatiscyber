@@ -159,6 +159,9 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <a href= "https://docs.google.com/presentation/d/1JorrYSc7D0od3_Z_9B4zqQZDERGKgPVV/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> What is Cybersecurity </a>
  <br>
 <h2> Hands-On Labs</h2>
+
+<a href=""> Introduction to Cyber Threat Intelligence </a>
+<a href=""> Malware Report </a>
  <a href="https://docs.google.com/document/d/1I7R3D0KiOXAuQ-8hMCPReGGh28U3LBsf0VDV6CQrzDM/edit?usp=sharing"> Keylogging Challenge </a>
  <br>
 
