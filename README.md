@@ -162,7 +162,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 
 <a href="https://github.com/WorkED123/introtoCTI"> Introduction to Cyber Threat Intelligence </a>- Easy<br>
 <br>
-<a href=""> Malware Report </a>- Medium <br>
+<a href="https://github.com/WorkED123/Research-and-Report-on-Different-Types-of-Malware/blob/main/README.md"> Malware Report </a>- Medium <br>
 <br>
  <a href="https://docs.google.com/document/d/1I7R3D0KiOXAuQ-8hMCPReGGh28U3LBsf0VDV6CQrzDM/edit?usp=sharing"> Keylogging Challenge </a>- Hard
  <br>
