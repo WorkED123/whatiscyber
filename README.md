@@ -160,7 +160,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
  <br>
 <h2> Hands-On Labs</h2>
 
-<a href="https://github.com/WorkED123/introtoCTI/blob/main/README.md"> Introduction to Cyber Threat Intelligence </a>- Easy<br>
+<a href="https://github.com/WorkED123/introtoCTI"> Introduction to Cyber Threat Intelligence </a>- Easy<br>
 <br>
 <a href=""> Malware Report </a>- Medium <br>
 <br>
