@@ -116,7 +116,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <br>
  
 
-<h2>Vocabulary</h2>
+<h2>Definitions</h2>
 <ul>
 <li> 
         
