@@ -156,7 +156,7 @@ Aside from these, we have cybersecurity engineers who work towards building secu
 <br>
 
 <h2> Presentation</h2>
-<a href= "https://docs.google.com/presentation/d/1JorrYSc7D0od3_Z_9B4zqQZDERGKgPVV/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> What is Cybersecurity </a>
+<a href= "https://docs.google.com/presentation/d/1aXd6ptVWtizOKy9pO2vnpLVU-YihLGa6ov97RbQC9Zg/edit?usp=sharing"> What is Cybersecurity </a>
  <br>
 <h2> Hands-On Labs</h2>
 
